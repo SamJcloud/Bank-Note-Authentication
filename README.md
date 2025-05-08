@@ -49,7 +49,11 @@ Response
 }
 ```
 🧰 Tools
+
 Python 3.12
+
 FastAPI
+
 scikit-learn
+
 Uvicorn
